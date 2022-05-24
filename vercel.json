@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    { 
+      "source": "/",
+      "destination": "https://www.lightbeacon.top/spxxbugdatabase/zh-CN/zh_CN.json", 
+      "permanent": false
+    }
+  ]
+}
