@@ -6,7 +6,7 @@
       "permanent": false
     },
     { 
-      "source": "/translators",
+      "source": "/translator",
       "destination": "https://spxx.bugjump.net/master/translator.json", 
       "permanent": false
     },
