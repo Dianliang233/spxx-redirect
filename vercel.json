@@ -1,8 +1,19 @@
 {
   "redirects": [
     { 
-      "source": "/",
-      "destination": "https://www.lightbeacon.top/spxxbugdatabase/zh-CN/zh_CN.json", 
+      "source": "/translations",
+      "destination": "
+http://spxx.bugjump.net/crowdin/zh-CN/zh_CN.json", 
+      "permanent": false
+    },
+    { 
+      "source": "/translators",
+      "destination": "http://spxx.bugjump.net/master/translator.json", 
+      "permanent": false
+    },
+    { 
+      "source": "/color",
+      "destination": "http://spxx.bugjump.net/master/color.json", 
       "permanent": false
     }
   ]
