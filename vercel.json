@@ -2,17 +2,17 @@
   "redirects": [
     { 
       "source": "/translations",
-      "destination": "https://spxx.bugjump.net/crowdin/zh-CN/zh_CN.json", 
+      "destination": "https://spxx-db.teahouse.team/crowdin/zh-CN/zh_CN.json", 
       "permanent": false
     },
     { 
       "source": "/translator",
-      "destination": "https://spxx.bugjump.net/master/translator.json", 
+      "destination": "https://spxx-db.teahouse.team/master/translator.json", 
       "permanent": false
     },
     { 
       "source": "/color",
-      "destination": "https://spxx.bugjump.net/master/color.json", 
+      "destination": "https://spxx-db.teahouse.team/master/color.json", 
       "permanent": false
     }
   ]
